@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\sendgrid\bin\Debug\sendgrid.exe.config
+C:\Users\pc\source\repos\sendgrid\bin\Debug\sendgrid.exe
+C:\Users\pc\source\repos\sendgrid\bin\Debug\sendgrid.pdb
+C:\Users\pc\source\repos\sendgrid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\sendgrid\bin\Debug\SendGrid.dll
+C:\Users\pc\source\repos\sendgrid\bin\Debug\StarkbankEcdsa.dll
+C:\Users\pc\source\repos\sendgrid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\sendgrid\bin\Debug\SendGrid.xml
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.Form1.resources
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.Properties.Resources.resources
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.csproj.CopyComplete
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.exe
+C:\Users\pc\source\repos\sendgrid\obj\Debug\sendgrid.pdb
