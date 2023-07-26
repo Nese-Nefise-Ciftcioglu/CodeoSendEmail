@@ -1,0 +1,15 @@
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\bin\Debug\sendgrid.dll.config
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\bin\Debug\sendgrid.dll
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\bin\Debug\sendgrid.pdb
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\bin\Debug\StarkbankEcdsa.dll
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\bin\Debug\SendGrid.xml
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\SendMail.csproj.AssemblyReference.cache
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\sendgrid.Form1.resources
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\sendgrid.Properties.Resources.resources
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\SendMail.csproj.GenerateResource.cache
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\SendMail.csproj.CopyComplete
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\sendgrid.dll
+C:\Users\Ipek Tekin\source\repos\CodeoSendEmail\sendgrid\obj\Debug\sendgrid.pdb
